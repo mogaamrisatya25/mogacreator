@@ -1,0 +1,13 @@
+
+<svg width="600" height="200" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="grad" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#00ffff" />
+      <stop offset="100%" stop-color="#ff00ff" />
+    </linearGradient>
+  </defs>
+  <rect x="0" y="0" width="600" height="200" fill="#0f0f0f"/>
+  <text x="50%" y="50%" font-size="48" text-anchor="middle" alignment-baseline="middle" fill="url(#grad)">
+    MOGA CREATOR
+  </text>
+</svg>
